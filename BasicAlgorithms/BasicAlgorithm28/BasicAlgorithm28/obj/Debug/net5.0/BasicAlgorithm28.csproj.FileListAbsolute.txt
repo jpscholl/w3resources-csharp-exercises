@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\bin\Debug\net5.0\BasicAlgorithm28.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\bin\Debug\net5.0\BasicAlgorithm28.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\bin\Debug\net5.0\BasicAlgorithm28.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\bin\Debug\net5.0\BasicAlgorithm28.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\bin\Debug\net5.0\BasicAlgorithm28.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\bin\Debug\net5.0\ref\BasicAlgorithm28.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\bin\Debug\net5.0\BasicAlgorithm28.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\obj\Debug\net5.0\BasicAlgorithm28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\obj\Debug\net5.0\BasicAlgorithm28.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\obj\Debug\net5.0\BasicAlgorithm28.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\obj\Debug\net5.0\BasicAlgorithm28.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\obj\Debug\net5.0\BasicAlgorithm28.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\obj\Debug\net5.0\ref\BasicAlgorithm28.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\obj\Debug\net5.0\BasicAlgorithm28.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\obj\Debug\net5.0\BasicAlgorithm28.genruntimeconfig.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm28\BasicAlgorithm28\obj\Debug\net5.0\BasicAlgorithm28.csproj.AssemblyReference.cache

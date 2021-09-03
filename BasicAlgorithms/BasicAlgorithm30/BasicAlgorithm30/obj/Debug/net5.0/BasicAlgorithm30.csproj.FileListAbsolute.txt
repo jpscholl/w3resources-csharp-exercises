@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\bin\Debug\net5.0\BasicAlgorithm30.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\bin\Debug\net5.0\BasicAlgorithm30.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\bin\Debug\net5.0\BasicAlgorithm30.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\bin\Debug\net5.0\BasicAlgorithm30.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\bin\Debug\net5.0\BasicAlgorithm30.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\bin\Debug\net5.0\ref\BasicAlgorithm30.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\bin\Debug\net5.0\BasicAlgorithm30.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\obj\Debug\net5.0\BasicAlgorithm30.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\obj\Debug\net5.0\BasicAlgorithm30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\obj\Debug\net5.0\BasicAlgorithm30.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\obj\Debug\net5.0\BasicAlgorithm30.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\obj\Debug\net5.0\BasicAlgorithm30.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\obj\Debug\net5.0\BasicAlgorithm30.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\obj\Debug\net5.0\ref\BasicAlgorithm30.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\obj\Debug\net5.0\BasicAlgorithm30.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm30\BasicAlgorithm30\obj\Debug\net5.0\BasicAlgorithm30.genruntimeconfig.cache
