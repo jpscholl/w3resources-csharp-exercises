@@ -1,0 +1,12 @@
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\bin\Debug\netcoreapp3.1\BasicExercise17.exe
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\bin\Debug\netcoreapp3.1\BasicExercise17.deps.json
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\bin\Debug\netcoreapp3.1\BasicExercise17.runtimeconfig.json
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\bin\Debug\netcoreapp3.1\BasicExercise17.runtimeconfig.dev.json
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\bin\Debug\netcoreapp3.1\BasicExercise17.dll
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\bin\Debug\netcoreapp3.1\BasicExercise17.pdb
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\obj\Debug\netcoreapp3.1\BasicExercise17.AssemblyInfoInputs.cache
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\obj\Debug\netcoreapp3.1\BasicExercise17.AssemblyInfo.cs
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\obj\Debug\netcoreapp3.1\BasicExercise17.csproj.CoreCompileInputs.cache
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\obj\Debug\netcoreapp3.1\BasicExercise17.dll
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\obj\Debug\netcoreapp3.1\BasicExercise17.pdb
+C:\Users\Aeon Nova\source\repos\BasicExercise17\BasicExercise17\obj\Debug\netcoreapp3.1\BasicExercise17.genruntimeconfig.cache
