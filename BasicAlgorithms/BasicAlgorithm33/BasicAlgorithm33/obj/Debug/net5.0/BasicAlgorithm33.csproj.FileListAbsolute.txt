@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\bin\Debug\net5.0\BasicAlgorithm33.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\bin\Debug\net5.0\BasicAlgorithm33.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\bin\Debug\net5.0\BasicAlgorithm33.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\bin\Debug\net5.0\BasicAlgorithm33.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\bin\Debug\net5.0\BasicAlgorithm33.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\bin\Debug\net5.0\ref\BasicAlgorithm33.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\bin\Debug\net5.0\BasicAlgorithm33.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\obj\Debug\net5.0\BasicAlgorithm33.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\obj\Debug\net5.0\BasicAlgorithm33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\obj\Debug\net5.0\BasicAlgorithm33.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\obj\Debug\net5.0\BasicAlgorithm33.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\obj\Debug\net5.0\BasicAlgorithm33.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\obj\Debug\net5.0\BasicAlgorithm33.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\obj\Debug\net5.0\ref\BasicAlgorithm33.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\obj\Debug\net5.0\BasicAlgorithm33.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm33\BasicAlgorithm33\obj\Debug\net5.0\BasicAlgorithm33.genruntimeconfig.cache

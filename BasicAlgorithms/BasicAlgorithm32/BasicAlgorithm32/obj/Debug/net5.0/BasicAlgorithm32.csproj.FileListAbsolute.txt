@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\bin\Debug\net5.0\BasicAlgorithm32.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\bin\Debug\net5.0\BasicAlgorithm32.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\bin\Debug\net5.0\BasicAlgorithm32.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\bin\Debug\net5.0\BasicAlgorithm32.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\bin\Debug\net5.0\BasicAlgorithm32.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\bin\Debug\net5.0\ref\BasicAlgorithm32.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\bin\Debug\net5.0\BasicAlgorithm32.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\obj\Debug\net5.0\BasicAlgorithm32.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\obj\Debug\net5.0\BasicAlgorithm32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\obj\Debug\net5.0\BasicAlgorithm32.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\obj\Debug\net5.0\BasicAlgorithm32.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\obj\Debug\net5.0\BasicAlgorithm32.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\obj\Debug\net5.0\BasicAlgorithm32.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\obj\Debug\net5.0\ref\BasicAlgorithm32.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\obj\Debug\net5.0\BasicAlgorithm32.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicAlgorithm32\BasicAlgorithm32\obj\Debug\net5.0\BasicAlgorithm32.genruntimeconfig.cache
