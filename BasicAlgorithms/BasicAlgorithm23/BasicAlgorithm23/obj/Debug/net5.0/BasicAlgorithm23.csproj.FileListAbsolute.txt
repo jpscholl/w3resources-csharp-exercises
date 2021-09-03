@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\bin\Debug\net5.0\BasicAlgorithm23.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\bin\Debug\net5.0\BasicAlgorithm23.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\bin\Debug\net5.0\BasicAlgorithm23.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\bin\Debug\net5.0\BasicAlgorithm23.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\bin\Debug\net5.0\BasicAlgorithm23.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\bin\Debug\net5.0\ref\BasicAlgorithm23.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\bin\Debug\net5.0\BasicAlgorithm23.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\obj\Debug\net5.0\BasicAlgorithm23.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\obj\Debug\net5.0\BasicAlgorithm23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\obj\Debug\net5.0\BasicAlgorithm23.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\obj\Debug\net5.0\BasicAlgorithm23.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\obj\Debug\net5.0\BasicAlgorithm23.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\obj\Debug\net5.0\BasicAlgorithm23.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\obj\Debug\net5.0\ref\BasicAlgorithm23.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\obj\Debug\net5.0\BasicAlgorithm23.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm23\BasicAlgorithm23\obj\Debug\net5.0\BasicAlgorithm23.genruntimeconfig.cache

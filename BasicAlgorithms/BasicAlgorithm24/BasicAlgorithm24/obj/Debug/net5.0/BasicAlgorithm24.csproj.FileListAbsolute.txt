@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\bin\Debug\net5.0\BasicAlgorithm24.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\bin\Debug\net5.0\BasicAlgorithm24.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\bin\Debug\net5.0\BasicAlgorithm24.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\bin\Debug\net5.0\BasicAlgorithm24.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\bin\Debug\net5.0\BasicAlgorithm24.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\bin\Debug\net5.0\ref\BasicAlgorithm24.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\bin\Debug\net5.0\BasicAlgorithm24.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\obj\Debug\net5.0\BasicAlgorithm24.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\obj\Debug\net5.0\BasicAlgorithm24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\obj\Debug\net5.0\BasicAlgorithm24.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\obj\Debug\net5.0\BasicAlgorithm24.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\obj\Debug\net5.0\BasicAlgorithm24.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\obj\Debug\net5.0\BasicAlgorithm24.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\obj\Debug\net5.0\ref\BasicAlgorithm24.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\obj\Debug\net5.0\BasicAlgorithm24.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm24\BasicAlgorithm24\obj\Debug\net5.0\BasicAlgorithm24.genruntimeconfig.cache
