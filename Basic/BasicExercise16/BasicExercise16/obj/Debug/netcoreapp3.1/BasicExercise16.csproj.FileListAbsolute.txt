@@ -1,0 +1,13 @@
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\bin\Debug\netcoreapp3.1\BasicExercise16.exe
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\bin\Debug\netcoreapp3.1\BasicExercise16.deps.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\bin\Debug\netcoreapp3.1\BasicExercise16.runtimeconfig.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\bin\Debug\netcoreapp3.1\BasicExercise16.runtimeconfig.dev.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\bin\Debug\netcoreapp3.1\BasicExercise16.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\bin\Debug\netcoreapp3.1\BasicExercise16.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\obj\Debug\netcoreapp3.1\BasicExercise16.AssemblyInfoInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\obj\Debug\netcoreapp3.1\BasicExercise16.AssemblyInfo.cs
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\obj\Debug\netcoreapp3.1\BasicExercise16.csproj.CoreCompileInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\obj\Debug\netcoreapp3.1\BasicExercise16.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\obj\Debug\netcoreapp3.1\BasicExercise16.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\obj\Debug\netcoreapp3.1\BasicExercise16.genruntimeconfig.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise16\BasicExercise16\obj\Debug\netcoreapp3.1\BasicExercise16.csprojAssemblyReference.cache

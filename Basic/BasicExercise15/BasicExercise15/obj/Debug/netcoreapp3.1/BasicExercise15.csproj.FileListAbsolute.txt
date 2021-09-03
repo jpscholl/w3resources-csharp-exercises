@@ -1,0 +1,13 @@
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\bin\Debug\netcoreapp3.1\BasicExercise15.exe
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\bin\Debug\netcoreapp3.1\BasicExercise15.deps.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\bin\Debug\netcoreapp3.1\BasicExercise15.runtimeconfig.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\bin\Debug\netcoreapp3.1\BasicExercise15.runtimeconfig.dev.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\bin\Debug\netcoreapp3.1\BasicExercise15.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\bin\Debug\netcoreapp3.1\BasicExercise15.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\obj\Debug\netcoreapp3.1\BasicExercise15.csprojAssemblyReference.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\obj\Debug\netcoreapp3.1\BasicExercise15.AssemblyInfoInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\obj\Debug\netcoreapp3.1\BasicExercise15.AssemblyInfo.cs
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\obj\Debug\netcoreapp3.1\BasicExercise15.csproj.CoreCompileInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\obj\Debug\netcoreapp3.1\BasicExercise15.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\obj\Debug\netcoreapp3.1\BasicExercise15.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise15\BasicExercise15\obj\Debug\netcoreapp3.1\BasicExercise15.genruntimeconfig.cache
