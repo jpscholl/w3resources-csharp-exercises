@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BasicExercise75/1.0.0": {
+        "runtime": {
+          "BasicExercise75.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicExercise75/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
