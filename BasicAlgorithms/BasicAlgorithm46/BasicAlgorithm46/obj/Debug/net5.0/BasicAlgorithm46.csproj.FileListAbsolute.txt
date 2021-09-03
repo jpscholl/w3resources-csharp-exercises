@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\bin\Debug\net5.0\BasicAlgorithm46.exe
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\bin\Debug\net5.0\BasicAlgorithm46.deps.json
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\bin\Debug\net5.0\BasicAlgorithm46.runtimeconfig.json
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\bin\Debug\net5.0\BasicAlgorithm46.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\bin\Debug\net5.0\BasicAlgorithm46.dll
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\bin\Debug\net5.0\ref\BasicAlgorithm46.dll
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\bin\Debug\net5.0\BasicAlgorithm46.pdb
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\obj\Debug\net5.0\BasicAlgorithm46.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\obj\Debug\net5.0\BasicAlgorithm46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\obj\Debug\net5.0\BasicAlgorithm46.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\obj\Debug\net5.0\BasicAlgorithm46.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\obj\Debug\net5.0\BasicAlgorithm46.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\obj\Debug\net5.0\BasicAlgorithm46.dll
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\obj\Debug\net5.0\ref\BasicAlgorithm46.dll
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\obj\Debug\net5.0\BasicAlgorithm46.pdb
+C:\Users\jpsch\source\repos\BasicAlgorithm46\BasicAlgorithm46\obj\Debug\net5.0\BasicAlgorithm46.genruntimeconfig.cache
