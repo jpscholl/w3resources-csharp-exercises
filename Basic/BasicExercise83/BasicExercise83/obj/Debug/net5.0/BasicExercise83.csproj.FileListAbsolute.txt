@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\obj\Debug\net5.0\BasicExercise83.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\obj\Debug\net5.0\BasicExercise83.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\obj\Debug\net5.0\BasicExercise83.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\obj\Debug\net5.0\BasicExercise83.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\obj\Debug\net5.0\BasicExercise83.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\bin\Debug\net5.0\BasicExercise83.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\bin\Debug\net5.0\BasicExercise83.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\bin\Debug\net5.0\BasicExercise83.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\bin\Debug\net5.0\BasicExercise83.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\bin\Debug\net5.0\BasicExercise83.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\bin\Debug\net5.0\ref\BasicExercise83.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\bin\Debug\net5.0\BasicExercise83.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\obj\Debug\net5.0\BasicExercise83.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\obj\Debug\net5.0\ref\BasicExercise83.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\obj\Debug\net5.0\BasicExercise83.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise83\BasicExercise83\obj\Debug\net5.0\BasicExercise83.genruntimeconfig.cache
