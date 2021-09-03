@@ -1,0 +1,15 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\bin\Debug\net5.0\BasicAlgorithm16.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\bin\Debug\net5.0\BasicAlgorithm16.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\bin\Debug\net5.0\BasicAlgorithm16.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\bin\Debug\net5.0\BasicAlgorithm16.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\bin\Debug\net5.0\BasicAlgorithm16.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\bin\Debug\net5.0\ref\BasicAlgorithm16.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\bin\Debug\net5.0\BasicAlgorithm16.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\obj\Debug\net5.0\BasicAlgorithm16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\obj\Debug\net5.0\BasicAlgorithm16.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\obj\Debug\net5.0\BasicAlgorithm16.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\obj\Debug\net5.0\BasicAlgorithm16.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\obj\Debug\net5.0\BasicAlgorithm16.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\obj\Debug\net5.0\ref\BasicAlgorithm16.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\obj\Debug\net5.0\BasicAlgorithm16.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm16\BasicAlgorithm16\obj\Debug\net5.0\BasicAlgorithm16.genruntimeconfig.cache
