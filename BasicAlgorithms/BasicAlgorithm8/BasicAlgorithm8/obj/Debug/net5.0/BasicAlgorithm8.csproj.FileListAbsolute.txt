@@ -1,0 +1,15 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\bin\Debug\net5.0\BasicAlgorithm8.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\bin\Debug\net5.0\BasicAlgorithm8.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\bin\Debug\net5.0\BasicAlgorithm8.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\bin\Debug\net5.0\BasicAlgorithm8.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\bin\Debug\net5.0\BasicAlgorithm8.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\bin\Debug\net5.0\ref\BasicAlgorithm8.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\bin\Debug\net5.0\BasicAlgorithm8.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\obj\Debug\net5.0\BasicAlgorithm8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\obj\Debug\net5.0\BasicAlgorithm8.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\obj\Debug\net5.0\BasicAlgorithm8.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\obj\Debug\net5.0\BasicAlgorithm8.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\obj\Debug\net5.0\BasicAlgorithm8.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\obj\Debug\net5.0\ref\BasicAlgorithm8.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\obj\Debug\net5.0\BasicAlgorithm8.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm8\BasicAlgorithm8\obj\Debug\net5.0\BasicAlgorithm8.genruntimeconfig.cache
