@@ -1,0 +1,15 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\bin\Debug\net5.0\BasicAlgorithm19.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\bin\Debug\net5.0\BasicAlgorithm19.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\bin\Debug\net5.0\BasicAlgorithm19.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\bin\Debug\net5.0\BasicAlgorithm19.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\bin\Debug\net5.0\BasicAlgorithm19.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\bin\Debug\net5.0\ref\BasicAlgorithm19.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\bin\Debug\net5.0\BasicAlgorithm19.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\obj\Debug\net5.0\BasicAlgorithm19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\obj\Debug\net5.0\BasicAlgorithm19.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\obj\Debug\net5.0\BasicAlgorithm19.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\obj\Debug\net5.0\BasicAlgorithm19.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\obj\Debug\net5.0\BasicAlgorithm19.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\obj\Debug\net5.0\ref\BasicAlgorithm19.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\obj\Debug\net5.0\BasicAlgorithm19.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm19\BasicAlgorithm19\obj\Debug\net5.0\BasicAlgorithm19.genruntimeconfig.cache

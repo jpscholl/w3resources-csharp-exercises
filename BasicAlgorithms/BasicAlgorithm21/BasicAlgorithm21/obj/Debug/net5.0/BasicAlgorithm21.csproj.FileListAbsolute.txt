@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\bin\Debug\net5.0\BasicAlgorithm21.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\bin\Debug\net5.0\BasicAlgorithm21.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\bin\Debug\net5.0\BasicAlgorithm21.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\bin\Debug\net5.0\BasicAlgorithm21.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\bin\Debug\net5.0\BasicAlgorithm21.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\bin\Debug\net5.0\ref\BasicAlgorithm21.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\bin\Debug\net5.0\BasicAlgorithm21.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\obj\Debug\net5.0\BasicAlgorithm21.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\obj\Debug\net5.0\BasicAlgorithm21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\obj\Debug\net5.0\BasicAlgorithm21.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\obj\Debug\net5.0\BasicAlgorithm21.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\obj\Debug\net5.0\BasicAlgorithm21.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\obj\Debug\net5.0\BasicAlgorithm21.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\obj\Debug\net5.0\ref\BasicAlgorithm21.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\obj\Debug\net5.0\BasicAlgorithm21.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm21\BasicAlgorithm21\obj\Debug\net5.0\BasicAlgorithm21.genruntimeconfig.cache
