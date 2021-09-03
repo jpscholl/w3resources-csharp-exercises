@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BasicExercise24/1.0.0": {
+        "runtime": {
+          "BasicExercise24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicExercise24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
