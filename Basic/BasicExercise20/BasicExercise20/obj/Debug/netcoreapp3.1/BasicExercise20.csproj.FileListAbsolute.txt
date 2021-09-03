@@ -1,0 +1,12 @@
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\bin\Debug\netcoreapp3.1\BasicExercise20.exe
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\bin\Debug\netcoreapp3.1\BasicExercise20.deps.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\bin\Debug\netcoreapp3.1\BasicExercise20.runtimeconfig.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\bin\Debug\netcoreapp3.1\BasicExercise20.runtimeconfig.dev.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\bin\Debug\netcoreapp3.1\BasicExercise20.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\bin\Debug\netcoreapp3.1\BasicExercise20.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\obj\Debug\netcoreapp3.1\BasicExercise20.AssemblyInfoInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\obj\Debug\netcoreapp3.1\BasicExercise20.AssemblyInfo.cs
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\obj\Debug\netcoreapp3.1\BasicExercise20.csproj.CoreCompileInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\obj\Debug\netcoreapp3.1\BasicExercise20.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\obj\Debug\netcoreapp3.1\BasicExercise20.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise20\BasicExercise20\obj\Debug\netcoreapp3.1\BasicExercise20.genruntimeconfig.cache
