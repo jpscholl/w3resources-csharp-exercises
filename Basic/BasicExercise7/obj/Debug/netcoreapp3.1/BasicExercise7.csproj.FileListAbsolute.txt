@@ -1,0 +1,12 @@
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\bin\Debug\netcoreapp3.1\BasicExercise7.exe
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\bin\Debug\netcoreapp3.1\BasicExercise7.deps.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\bin\Debug\netcoreapp3.1\BasicExercise7.runtimeconfig.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\bin\Debug\netcoreapp3.1\BasicExercise7.runtimeconfig.dev.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\bin\Debug\netcoreapp3.1\BasicExercise7.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\bin\Debug\netcoreapp3.1\BasicExercise7.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\obj\Debug\netcoreapp3.1\BasicExercise7.AssemblyInfoInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\obj\Debug\netcoreapp3.1\BasicExercise7.AssemblyInfo.cs
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\obj\Debug\netcoreapp3.1\BasicExercise7.csproj.CoreCompileInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\obj\Debug\netcoreapp3.1\BasicExercise7.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\obj\Debug\netcoreapp3.1\BasicExercise7.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise7\obj\Debug\netcoreapp3.1\BasicExercise7.genruntimeconfig.cache
