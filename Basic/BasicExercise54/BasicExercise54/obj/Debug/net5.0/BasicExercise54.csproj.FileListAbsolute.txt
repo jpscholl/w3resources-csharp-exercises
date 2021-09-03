@@ -1,0 +1,15 @@
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\bin\Debug\net5.0\BasicExercise54.exe
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\bin\Debug\net5.0\BasicExercise54.deps.json
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\bin\Debug\net5.0\BasicExercise54.runtimeconfig.json
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\bin\Debug\net5.0\BasicExercise54.runtimeconfig.dev.json
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\bin\Debug\net5.0\BasicExercise54.dll
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\bin\Debug\net5.0\ref\BasicExercise54.dll
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\bin\Debug\net5.0\BasicExercise54.pdb
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\obj\Debug\net5.0\BasicExercise54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\obj\Debug\net5.0\BasicExercise54.AssemblyInfoInputs.cache
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\obj\Debug\net5.0\BasicExercise54.AssemblyInfo.cs
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\obj\Debug\net5.0\BasicExercise54.csproj.CoreCompileInputs.cache
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\obj\Debug\net5.0\BasicExercise54.dll
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\obj\Debug\net5.0\ref\BasicExercise54.dll
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\obj\Debug\net5.0\BasicExercise54.pdb
+C:\Users\Aeon Nova\source\repos\BasicExercise54\BasicExercise54\obj\Debug\net5.0\BasicExercise54.genruntimeconfig.cache
