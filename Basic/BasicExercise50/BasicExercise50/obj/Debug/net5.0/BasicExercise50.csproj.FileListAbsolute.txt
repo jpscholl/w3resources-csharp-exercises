@@ -1,0 +1,16 @@
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\bin\Debug\net5.0\BasicExercise50.exe
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\bin\Debug\net5.0\BasicExercise50.deps.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\bin\Debug\net5.0\BasicExercise50.runtimeconfig.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\bin\Debug\net5.0\BasicExercise50.runtimeconfig.dev.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\bin\Debug\net5.0\BasicExercise50.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\bin\Debug\net5.0\ref\BasicExercise50.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\bin\Debug\net5.0\BasicExercise50.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\obj\Debug\net5.0\BasicExercise50.csprojAssemblyReference.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\obj\Debug\net5.0\BasicExercise50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\obj\Debug\net5.0\BasicExercise50.AssemblyInfoInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\obj\Debug\net5.0\BasicExercise50.AssemblyInfo.cs
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\obj\Debug\net5.0\BasicExercise50.csproj.CoreCompileInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\obj\Debug\net5.0\BasicExercise50.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\obj\Debug\net5.0\ref\BasicExercise50.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\obj\Debug\net5.0\BasicExercise50.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasicExercise50\BasicExercise50\obj\Debug\net5.0\BasicExercise50.genruntimeconfig.cache
