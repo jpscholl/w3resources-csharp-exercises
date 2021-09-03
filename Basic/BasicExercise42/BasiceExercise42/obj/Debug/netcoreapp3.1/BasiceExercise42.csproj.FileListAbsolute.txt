@@ -1,0 +1,12 @@
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\bin\Debug\netcoreapp3.1\BasiceExercise42.exe
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\bin\Debug\netcoreapp3.1\BasiceExercise42.deps.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\bin\Debug\netcoreapp3.1\BasiceExercise42.runtimeconfig.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\bin\Debug\netcoreapp3.1\BasiceExercise42.runtimeconfig.dev.json
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\bin\Debug\netcoreapp3.1\BasiceExercise42.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\bin\Debug\netcoreapp3.1\BasiceExercise42.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\obj\Debug\netcoreapp3.1\BasiceExercise42.AssemblyInfoInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\obj\Debug\netcoreapp3.1\BasiceExercise42.AssemblyInfo.cs
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\obj\Debug\netcoreapp3.1\BasiceExercise42.csproj.CoreCompileInputs.cache
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\obj\Debug\netcoreapp3.1\BasiceExercise42.dll
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\obj\Debug\netcoreapp3.1\BasiceExercise42.pdb
+C:\Users\Aeon Nova\source\repos\C# Projects\w3resource exercises\C# Basic Exercises\BasiceExercise42\BasiceExercise42\obj\Debug\netcoreapp3.1\BasiceExercise42.genruntimeconfig.cache
