@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\bin\Debug\net5.0\BasicAlgorithm34.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\bin\Debug\net5.0\BasicAlgorithm34.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\bin\Debug\net5.0\BasicAlgorithm34.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\bin\Debug\net5.0\BasicAlgorithm34.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\bin\Debug\net5.0\BasicAlgorithm34.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\bin\Debug\net5.0\ref\BasicAlgorithm34.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\bin\Debug\net5.0\BasicAlgorithm34.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\obj\Debug\net5.0\BasicAlgorithm34.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\obj\Debug\net5.0\BasicAlgorithm34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\obj\Debug\net5.0\BasicAlgorithm34.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\obj\Debug\net5.0\BasicAlgorithm34.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\obj\Debug\net5.0\BasicAlgorithm34.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\obj\Debug\net5.0\BasicAlgorithm34.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\obj\Debug\net5.0\ref\BasicAlgorithm34.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\obj\Debug\net5.0\BasicAlgorithm34.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm34\BasicAlgorithm34\obj\Debug\net5.0\BasicAlgorithm34.genruntimeconfig.cache
