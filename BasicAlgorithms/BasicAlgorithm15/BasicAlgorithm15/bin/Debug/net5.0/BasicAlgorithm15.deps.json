@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BasicAlgorithm15/1.0.0": {
+        "runtime": {
+          "BasicAlgorithm15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicAlgorithm15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
