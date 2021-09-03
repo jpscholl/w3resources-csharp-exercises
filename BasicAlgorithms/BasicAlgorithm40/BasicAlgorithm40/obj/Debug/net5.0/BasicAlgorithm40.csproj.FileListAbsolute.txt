@@ -1,0 +1,15 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\bin\Debug\net5.0\BasicAlgorithm40.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\bin\Debug\net5.0\BasicAlgorithm40.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\bin\Debug\net5.0\BasicAlgorithm40.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\bin\Debug\net5.0\BasicAlgorithm40.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\bin\Debug\net5.0\BasicAlgorithm40.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\bin\Debug\net5.0\ref\BasicAlgorithm40.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\bin\Debug\net5.0\BasicAlgorithm40.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\obj\Debug\net5.0\BasicAlgorithm40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\obj\Debug\net5.0\BasicAlgorithm40.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\obj\Debug\net5.0\BasicAlgorithm40.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\obj\Debug\net5.0\BasicAlgorithm40.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\obj\Debug\net5.0\BasicAlgorithm40.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\obj\Debug\net5.0\ref\BasicAlgorithm40.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\obj\Debug\net5.0\BasicAlgorithm40.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\w3resource exercises\Basic Algorithm\BasicAlgorithm40\BasicAlgorithm40\obj\Debug\net5.0\BasicAlgorithm40.genruntimeconfig.cache
