@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\bin\Debug\net5.0\BasicAlgorithm47.exe
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\bin\Debug\net5.0\BasicAlgorithm47.deps.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\bin\Debug\net5.0\BasicAlgorithm47.runtimeconfig.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\bin\Debug\net5.0\BasicAlgorithm47.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\bin\Debug\net5.0\BasicAlgorithm47.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\bin\Debug\net5.0\ref\BasicAlgorithm47.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\bin\Debug\net5.0\BasicAlgorithm47.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\obj\Debug\net5.0\BasicAlgorithm47.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\obj\Debug\net5.0\BasicAlgorithm47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\obj\Debug\net5.0\BasicAlgorithm47.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\obj\Debug\net5.0\BasicAlgorithm47.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\obj\Debug\net5.0\BasicAlgorithm47.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\obj\Debug\net5.0\BasicAlgorithm47.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\obj\Debug\net5.0\ref\BasicAlgorithm47.dll
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\obj\Debug\net5.0\BasicAlgorithm47.pdb
+C:\Users\jpsch\source\repos\Programming Projects\C# Projects\W3resource exercises\Basic Algorithm\BasicAlgorithm47\BasicAlgorithm47\obj\Debug\net5.0\BasicAlgorithm47.genruntimeconfig.cache
