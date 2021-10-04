@@ -5,6 +5,7 @@
 //  Description: Write a C# Sharp program to compute the sum of the elements of an given array of integers.
 */
 using System;
+using System.Linq;
 
 namespace BasicAlgorithm91
 {
@@ -41,11 +42,7 @@ namespace BasicAlgorithm91
         }
         public static void sumOfArray(int[] numArray)
         {
-            int sum = 0;
-            foreach (int item in numArray)
-            {
-                sum += item;
-            }
+            int sum = numArray.Sum();
             Console.Write("Sum of the array: " + sum);
         }
     }
