@@ -22,14 +22,22 @@ namespace ForLoop47
         //method calculates strong number based on input
         public static bool strongNumber(int num)
         {
-            int factorial = 0;
-            int y = 0;
-            for (int x = 1; x <= num; x++)
+            int factorial;
+            int sumFactorial = 0;
+
+            for(int x = num; x > 0; x = x / 10)
             {
-                factorial = x * (x - y);
-                y++;
+                factorial = 1;
+
+                for(int y = 1; y <= x % 10; y++)
+                {
+                    factorial = factorial * y;
+                }
+
+                sumFactorial = sumFactorial + factorial;
             }
 
-            return factorial == num;
+            return sumFactorial == num;
         }
     }
+}
