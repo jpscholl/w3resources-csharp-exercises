@@ -29,14 +29,21 @@ namespace Array14
             Console.Write("What position inside array: ");
             position = Convert.ToInt32(Console.ReadLine());
 
+            //copy first part into array up to the desired position
+            Array.Copy(num, outputArray, position - 1);
+            for (int i = 0; i < position - 1; i++)
+            {
+                outputArray[i] = num[i];
+            }
+
             /* Move all data at right side of the array */
             for (int i = num.Length; i >= position; i--)
                 outputArray[i] = num[i - 1];
+
             /* insert value at given position */
             outputArray[position - 1] = element;
 
-            //copy first part into array
-            Array.Copy(num, outputArray, position - 1);
+            
             return outputArray;
         }
         public static int[] CreateArray()
