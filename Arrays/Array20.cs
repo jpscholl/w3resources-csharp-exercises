@@ -13,15 +13,15 @@ int[,] matrixOne = CreateNewMatrix(matrixSize);
 int[,] matrixTwo = CreateNewMatrix(matrixSize);
 
 //Add two matrices
-int[,] addMatrix = SubtractMatrix(matrixOne, matrixTwo, matrixSize);
+int[,] subtractMatrix = SubtractMatrix(matrixOne, matrixTwo, matrixSize);
 
 //Print output
 Console.WriteLine(Environment.NewLine + "First matrix:");
 PrintMatrix(matrixOne);
 Console.WriteLine(Environment.NewLine + "Second matrix:");
 PrintMatrix(matrixTwo);
-Console.WriteLine(Environment.NewLine + "Added matrix:");
-PrintMatrix(addMatrix);
+Console.WriteLine(Environment.NewLine + "Subtracted matrix:");
+PrintMatrix(subtractMatrix);
 //End Main Method
 
 //Custom classes
